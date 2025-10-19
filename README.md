@@ -13,7 +13,7 @@ Este projeto é uma versão do **Android Crypto Monitor** existente no GitHub, c
 1. **Tela Principal (sem detalhes)**
 <img width="416" height="905" alt="image" src="https://github.com/user-attachments/assets/47152529-1d11-4274-9516-057de0db82f2" />
 
-## 2. **Tela de Detalhes da Criptomoeda ao Clicar em Atualizar**  
+2. **Tela de Detalhes da Criptomoeda ao Clicar em Atualizar**  
 <img width="420" height="916" alt="image" src="https://github.com/user-attachments/assets/28844abb-89da-45c0-b757-b4b4666d08b3" />
 
 ## Como Executar

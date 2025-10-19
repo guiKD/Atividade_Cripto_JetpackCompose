@@ -1,8 +1,8 @@
 # Android Crypto Monitor - Jetpack Compose
 
 ## Integrantes do Grupo:
-## Guilherme Korus Daoud RM: 97826
-## Rafael Miura RM: 98845
+Guilherme Korus Daoud RM: 97826
+Rafael Miura RM: 98845
 
 ## Descrição do Projeto
 Este projeto é uma versão do **Android Crypto Monitor** existente no GitHub, convertida para o padrão declarativo usando **Jetpack Compose**, sem utilização de XML para layouts. Ele permite monitorar criptomoedas em tempo real.

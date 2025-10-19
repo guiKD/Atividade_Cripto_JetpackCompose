@@ -2,6 +2,7 @@
 
 ## Integrantes do Grupo:
 Guilherme Korus Daoud RM: 97826
+<br>
 Rafael Miura RM: 98845
 
 ## Descrição do Projeto
